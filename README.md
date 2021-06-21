@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Varnique
+- 👀 I’m interested in E-Commerce product
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on Python and Django
+- 📫 How to reach me varnique.in@gmail.com
